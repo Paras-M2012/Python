@@ -1,0 +1,44 @@
+'''
+Total 4 type of Condition.
+1) Simple IF:
+If (Condition):
+    Statement
+after a condition Need 
+'''
+
+'''
+2) If / Else
+If (Cindition):
+    statement
+    Else:
+        Statement
+'''
+
+'''
+3) Nested IF
+If (Condition):
+    If (Condition):
+        Statement
+    Else :
+        Statement
+
+'''
+
+'''
+4) Ladder If
+If (Condition):
+    Statement
+    elif (Condition):
+        statement
+    elif (Condition):
+        statement
+    elif (Condition):
+        statement
+    elif (Condition):
+        statement
+    elif (Condition):
+        statement
+Else :
+    statement
+
+'''
