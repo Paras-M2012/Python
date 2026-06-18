@@ -1,0 +1,3 @@
+While Loops: you must have to give statement to stop the loop.
+Fibonacci series: there is that types of number that only sum value of first and second.
+Prime Numbers : There are that types of number you can divide by self or only 1
