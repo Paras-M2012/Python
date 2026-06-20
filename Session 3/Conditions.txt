@@ -8,7 +8,7 @@ after a condition Need
 
 '''
 2) If / Else
-If (Cindition):
+If (Condition):
     statement
     Else:
         Statement

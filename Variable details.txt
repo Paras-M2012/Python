@@ -1,0 +1,7 @@
+Variable is a Data Name and it is used to store the data Value.
+Rules to Declared a Variable.
+
+1) Must started with an alphabet.
+2) Upper and Lower case are significant (cause they both have a different ASCII value)
+3) Space is not allowed between the Variable Name.
+4) Key word is not allowed as a Variable name.

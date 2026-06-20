@@ -1,0 +1,7 @@
+> String is a group of characters.
+> String index is always start from 0.
+> You can write string in double quotation as well as single quotation.
+> In string they have a multiple library function.
+
+> In English there is sentence case (always first letter will be capital).
+> Programing language is a case sensitive.

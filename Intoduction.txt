@@ -1,0 +1,16 @@
+Python
+read python from python wiki
+you can also read from original docs
+download python from python.org
+
+ascii value : American standard code for information interchange full form of ASCII value.
+capital A to Z ascii value is 65 to 90.
+Small a to z ascii value is 97 to 122.
+python is automatic memory management. 
+
+
+
+
+
+
+
