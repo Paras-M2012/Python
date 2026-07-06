@@ -1,0 +1,19 @@
+OOPS : OBJECT ORIENTED PROGRAM CLASS AND OBJECT create object particular data structure.
+CLASS : A class is a blueprint or template used to create objects.
+class : product
+Object : manufacturer.
+for example :
+Phone is class : but object is Samsung Apple.
+car is class : Attributes : color brand
+methods action : start stop accelerate.
+attributes : brand color price
+Methods : Call msg camera
+
+Class vs Object
+
+Class					Object
+Blueprint or template			Instance of a class
+Defines data and methods		Uses the data and methods
+
+
+Inheritance : 

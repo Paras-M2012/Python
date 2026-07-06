@@ -1,0 +1,11 @@
+Inheritance : The object of one class can acquire the properties of object of another class is called an inheritance.
+
+creating a new class from an existing class is called an Inheritance. 
+
+Types Of Inheritance :
+
+Single
+Multiple
+Multilevel
+Hybrid
+Hierarchical

@@ -1,0 +1,4 @@
+Exception : an exception is an abnormal condition that arises during the runtime of a program. if you do not handle the exception your program will terminate abnormally. to handle the exception in python there are mainly two keyword is used :
+1) try 
+2) except
+3) finally 
