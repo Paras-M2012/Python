@@ -1,0 +1,6 @@
+Polymorphism : One name multiple form.
+
+Types : 
+	1) Runtime (method overriding) : When there is same method prototype in 	your both base class and derived class & if you call that method using 	the object of derived class then only derived class method will be 	called. SO you can say that method of derived class overrides the 	method of you base class. 
+
+	2) Compile time (Method overloading) : When there is a more than one 	method in a single class having the same name but with different number 	of arguments and their data types then it is called method overloading. 

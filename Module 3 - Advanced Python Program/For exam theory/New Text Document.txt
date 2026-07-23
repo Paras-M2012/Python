@@ -1,0 +1,39 @@
+List : 
+	> List is an Ordered and Mutable collection. duplicate allows, create 	with square bracket.
+	> mutable means can add remove and modify
+	> duplicate items allows.
+	> Append (end) extend (second list add) method we can add element.
+	> insert in specific position Insert (index, value).
+	> remove pop.
+	> when data are changes frequently and order is important for that we	use.
+	> List slicing. There is three points : start : end : jump by default is +1.
+
+Tuple : 
+	> Tuple is an unordered and immutable.
+	> Round bracket.
+	> len max min sum sorted
+	> Duplicate value allows.
+	> We can access Tuple elements with tuple[0].	
+	> it s faster cause immutable and less memory.
+	> Tuple can contain integers string floats.
+	> When the data should not be modified than use tuple.
+Set : 
+	> Unordered collection of unique elements.
+	> add update remove discard pop.
+	> write in curly braces.
+	> duplicate values are removed automatically.
+	> add element add(). remove (), discard().
+	> sets are unordered so there is no index.
+	> combined two sets union().
+	> When you need unique value and want to remove duplicates.
+Dictionary : 
+	> stores data as key and value pairs.
+	> {"name":"Paras","age":25}
+	> keys must be unique.
+	> Values can be duplicates.
+	> using key we find value. student["name"].
+	> student["city"] = "Ahmedabad". add or update value.
+	> returns all key : keys().
+	> return values : values().
+	> get().
+	> when storing data as key-value pairs for fast lookup.	

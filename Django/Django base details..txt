@@ -1,0 +1,44 @@
+> Django is a best fast scalable and secure framework for Python.
+> That is not a Programming Language so it will return in Python Programming Language.
+> Framework is software modules and tools Which we building a software application.
+> Manual code is time consuming and more difficult to find a error that why we use the Framework.
+> Excellent Documentation fast and simple, by default they have a Admin Panel, Security, SEO Friendly framework, extensive Library support.
+> When you have to make any types of login or register form than it will help you and ORM (Object Relational Mapping.).
+> Django have by default register backend format.
+> Django have PBKDF2 = Password based key derivation function 2.
+> National Institute of Standards and Technology.'
+> Django come from Default Admin Panel = CRUD (Create, Read, Update, Delete)
+> Framework is clear simple fast reliable flexible and scalable.
+> Instagram and you tube is using Django Framework.
+> 1. Built with Python Easy to learn.
+  2. DS ML.
+> Django is inherit a lot of key benefits of Python.
+> Admin panel is very best and supported structure.
+> Django follows a DRY Principle. (Don't Repeat Yourself Principle).
+> Install VS Code -> Git Bash (git.scm.com).
+> Virtual Environment.
+> Django Inherits lot of function form Python.
+> Django install 4.0 and 3.1 replace.
+
+
+after this all.
+1> make a folder -> Open git bas terminal -> first command -. pip freeze.
+after that delete the all packages clear.
+pip install virtualenv
+python -m venv env (env means you can give any name this is only just name).
+create env folder.
+
+Source env/scripts/activate (This will from your folder).
+
+pip freeze.
+pup install Django.(IT will install latest version of Django).
+pip freeze.
+
+
+Django first project.
+
+Django Documentation online available.
+after download you have to open a VS CODE for editor.
+Source env/scripts/activate in vs code terminal.
+
+ 
